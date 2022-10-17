@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\bixny\Desktop\2.1\2.1\Source.cpp(23,36): error C2064: результатом вычисления фрагмента не является функция, принимающая 1 аргументов
+C:\Users\bixny\Desktop\2.1\2.1\Source.cpp(23,68): error C2059: синтаксическая ошибка: ;
